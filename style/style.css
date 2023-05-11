@@ -1,0 +1,81 @@
+@font-face{
+		font-family: "sans2";
+		src: url("../fonts/sans.ttf");
+}
+.container{
+	font-family: "sans2";
+	color: white;
+	margin: 0 auto;
+	width: 600px;
+	height: 50px;
+	background-color: #333;
+	font-size: 26px;
+	padding: 8px;
+	box-sizing: border-box; 
+	font-weight: 100;
+}
+.header{	
+	color: white;	
+	font-size: 26px;
+	padding: 8px;	 
+	font-weight: 100;
+}
+.second {	
+	padding: 160px 0px 30px 20px;
+	color: white;
+	font-family: "sans2";
+	width: 600px;
+	height: 300px;
+	background-color: #000;
+	margin: 0 auto;
+	box-sizing: border-box;
+	
+}
+.hedreska{	
+	font-weight: 100;
+	
+	
+	
+}
+.third{
+	width: 600px;
+	height: 250px;
+	background-color: #181818;
+	box-sizing: border-box; 
+	margin: 0 auto;
+	color: white;
+	font-family: "sans2";	
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 100px 100px 50px;
+	
+}
+.pencil{
+	color: #878787;
+	
+}
+.size{
+	padding: 20px;
+	
+	
+	
+}
+.h1{
+	font-size: 30px;
+	font-weight: 100;
+}
+.baton{
+	padding: 5px 0px 5px 200px;
+}
+.blue{
+	margin: 5px 0px 5px 30px;
+}
+.bluton{
+	box-sizing: border-box;
+	padding: 10px ;
+	color: #111920;
+	background-color: #3ea6ff;
+	border-radius: 5px;
+}
+
+
